@@ -1,7 +1,7 @@
 # 2022年CyberSecurity Camp 資訊安全營-入門課程
 ```
 教育部先進資通安全實務人才培育計畫
-校園資安深耕營Advanced Happy CyberSecurity Day
+CyberSecurity Camp 資訊安全營-入門課程
 
 課程名稱：基礎逆向工程
 課程說明：本次課程將從零開始帶領學員了解逆向工程、組合語言等相關的基礎，讓初學者更容易切入逆向工程。
@@ -23,7 +23,7 @@
 學員證書發放說明：
 (1)學員需完成指定題目達7題(含)以上。 
 (2)證書只提供給具本國籍國中高中職五專在學學生。  
-(3)證書於10月19日後由郵局掛號寄出(名單將於10月18日公布於此)。  
+(3)證書於4月11日後由郵局掛號寄出(名單將於3月29日公布於此)。  
 (4)本主辦單位保有最終修改、變更、活動解釋及取消之權利。     
 
 ✪指導單位：教育部資訊及科技教育司
@@ -31,35 +31,32 @@
 ✪聯絡窗口：陳小姐0928-155-602 / E-mail:samtn125@gmail.com或洽FB粉絲頁(高中職生資安研習營)
 ```
 
-# 環境安裝影片
-```
-請依序安裝
-(1)虛擬機軟體VirtualBox：https://youtu.be/zJnpqilRe5M
-(2)Win 10虛擬機：https://youtu.be/ZRHg0ugdL1Y 
-(3)Ubuntu虛擬機：https://youtu.be/Kvy6lmSEMMo
-```
 # 課程簡報下載
 https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sharing
 
-
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
-# [CTF平台](https://140.110.112.213/)
+# [CTF平台]
+
+|主題|網址|
+|:----:|:------|
+|CRYPTO|---|
+|PWN|---|
+|REVERS|---|
 ```
-平台關閉時間：10/14 17:00
+平台關閉時間：3/11 17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL與帳號將提供驗證核發證書使用)
-平台連結：https://140.110.112.213/
 ```
+
 
 # [Discord課程聊天室](https://discord.com/invite/5EGg3Ttq)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
- https://discord.gg/5EGg3Ttq
+https://discord.com/invite/5EGg3Ttq
 ```
 
 
 # 線上簽到
-
 ```
 兩次簽到開放時間與表單連結如下：
 (1)3月5日(六)  12:30-12:40  
@@ -79,8 +76,8 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 
 
 
-# 3月5日(六) Python程式 
-## 課程表與影片連結
+# 3月5日(六) Python程式  課程表
+## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
 |CH1-1 安裝、腳本|https://youtu.be/EjieghU-QKI|
@@ -93,8 +90,8 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 |Ch3-2 Import, class, error|https://youtu.be/05dxMzQ--EQ|
 |CH3-2 Practice III|https://youtu.be/QyduFCWYkR4|
 
-# 3月5日(六) Python與古典密碼學 
-## 課程表與影片連結
+# 3月5日(六) Python與古典密碼學 課程表
+## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
 |CH0 開頭|https://youtu.be/Hh4yojdBxqw|
@@ -108,8 +105,8 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 |Ch3-3 Hash概要|https://youtu.be/S0IKcLZwl7c|
 
 
-# 3月6日(日) 初識逆向工程及底層架構 
-## 課程表與影片連結
+# 3月6日(日) 初識逆向工程及底層架構  課程表
+## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
 |Part1 |https://youtu.be/hZ1YR6hWEXY|
@@ -121,9 +118,8 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 |Part7 |https://youtu.be/V3Wf3vCoH-I|
 
 
-
-# 3月6日(日) 認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用 
-## 課程表與影片連結
+# 3月6日(日) 認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用  課程表
+## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
 |CH1 Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
