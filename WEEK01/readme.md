@@ -62,23 +62,38 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 
 ```
 兩次簽到開放時間與表單連結如下：
-(1)10月10日(日) 09:00~10:30  https://forms.gle/6HPtTEMdfNuMERQz8
-(2)10月11日(一) 13:00~14:30  https://forms.gle/VGuhuEjinUvPSwVS8
-(3)將以時間截記為主，簽到時間結束表單將自行關閉。
+(1)3月5日(六)  12:30-12:40  
+(2)3月6日(日)  12:30-12:40  
+(3)請學員*務必*上線填寫簽到表單，逾時不侯不補簽。
+(4)將以時間截記為主，簽到時間結束表單將自行關閉。
 
 ```
-##影片下架：10/14 17:00
+#  課程資訊與課程表
+## 採預錄影片學員可彈性安排時間，影片開放與CTF解題時間為3月5日09:00~3月11日17:00
+|時間|主題|講師|
+|:----:|:----:|:------|
+|3月5日09:30~12:30|Python程式|好厲駭資深學長Maojui|
+|3月5日13:30~16:30|Python與古典密碼學|好厲駭資深學長Maojui|
+|3月6日09:30~12:30|認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
+|3月6日13:30~16:30|初識逆向工程及底層架構|臺灣好厲駭學員LJP|
+影片下架：
 
-# 10月10日(星期日)課程表與影片/直播連結
-|時間|上課方式|章節名稱|影片/直播連結|
-|:----:|:----:|:------|:-------------|
-|09:00-10:00|預錄影片|工具安裝|https://youtu.be/lH7O9tUaH-U|
-|10:00-10:30|預錄影片|逆向工程簡介-程式產生過程|https://youtu.be/LwOIPeWVs-U|
-|10:30-11:30|預錄影片|逆向工程簡介-程式運作過程|https://youtu.be/Qx7XqiljuNg|
-|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/uup-aejb-noz|
-|13:30-14:30|預錄影片|X86組合語言(1)|https://youtu.be/lr11CFqmm7Y|
-|14:30-15:30|預錄影片|X86組合語言(2)|https://youtu.be/FWbN_4dj4g8|
-|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/zhm-qdff-ekz|
+# 3月5日(星期六)課程表與影片/直播連結
+|章節名稱|影片連結|
+|:------|:-------------|
+|CH1-1 安裝、腳本|https://youtu.be/EjieghU-QKI |
+|Ch1-2 Keyword, 變數, 運算元|https://youtu.be/X-UsKI219Xw |
+|Ch1-3 資料型別, Input, print|https://youtu.be/HOCaGmC6zJI |
+|Ch1-4 數字、String|https://youtu.be/fKujxr0klME |
+|Ch2-1 List,Tuple,Set,Dict|https://youtu.be/834W-_IUwiM |
+|09|htt|
+|09|htt|
+|09|htt|
+|09|htt|
+|09|htt|
+
+
+
 
 # 10月11日(星期一)課程表與影片/直播連結
 |時間|上課方式|章節名稱|影片/直播連結|
