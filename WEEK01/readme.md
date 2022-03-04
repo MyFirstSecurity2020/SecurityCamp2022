@@ -52,8 +52,8 @@ https://discord.com/invite/5EGg3Ttq
 # 線上簽到
 ```
 兩次簽到開放時間與表單連結如下：
-(1)3月5日(六)  12:30-12:40  
-(2)3月6日(日)  12:30-12:40  
+(1)3月5日(六)  12:30-12:40   https://reurl.cc/MbVbN3
+(2)3月6日(日)  12:30-12:40   https://reurl.cc/12q2ZV
 (3)請學員*務必*上線填寫簽到表單，逾時不侯不補簽。
 (4)將以時間截記為主，簽到時間結束表單將自行關閉。
 
@@ -121,7 +121,7 @@ https://discord.com/invite/5EGg3Ttq
 |ch3-1 Bof local variable|https://youtu.be/UmLr0_B6yqc|
 |ch3-2 Bof-local-variable|https://youtu.be/UqqqxYYeGXA|
 ## 3月6日(日) 14:30-15:30 陳憶賢講師直播
-https://meet.google.com/ugk-ibnk-tma
+https://meet.google.com/ipw-pfsi-guc
 
 
 # [證書核發](https://forms.gle/oyfB1JWYKg1rDYnS6)
@@ -135,6 +135,34 @@ https://meet.google.com/ugk-ibnk-tma
 (7)本主辦單位保有最終修改、變更、活動解釋及取消之權利。 
 
 ```
+
+
+#  必解題
+```
+Crypto:
+- Classical 1
+- Classical 2
+- Classical 3
+- Classical 4
+- Classical 5
+
+Pwn:
+- 張元 Pwn6 
+- 張元 Pwn7 (*)
+- 張元 Pwn1
+- pass (*)
+
+Reverse:
+- Lottery
+- Password_Checker
+- tryregistry
+
+
+
+打星號的是考試題
+```
+
+#  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
 
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
