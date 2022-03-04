@@ -78,7 +78,7 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 |3月6日13:30~16:30|初識逆向工程及底層架構|臺灣好厲駭學員LJP|
 影片下架：
 
-# 3月5日(星期六)課程表與影片/直播連結
+# 3月5日(六)Python程式 課程表與影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
 |CH1-1 安裝、腳本|https://youtu.be/EjieghU-QKI |
@@ -86,11 +86,10 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 |Ch1-3 資料型別, Input, print|https://youtu.be/HOCaGmC6zJI |
 |Ch1-4 數字、String|https://youtu.be/fKujxr0klME |
 |Ch2-1 List,Tuple,Set,Dict|https://youtu.be/834W-_IUwiM |
-|09|htt|
-|09|htt|
-|09|htt|
-|09|htt|
-|09|htt|
+|Ch2-2 If, for 介紹|https://youtu.be/podDbmMEiHQ |
+|CH3-1 For, Function|https://youtu.be/nF7nUoOeK_k |
+|Ch3-2 Import, class, error|https://youtu.be/05dxMzQ--EQ |
+|CH3-2 Practice III|https://youtu.be/QyduFCWYkR4 |
 
 
 
