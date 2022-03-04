@@ -4,15 +4,6 @@
 
 CyberSecurity Camp 資訊安全營-入門課程
 
-
-課程內容：
-
-|主題|講師|
-|:----:|:------|
-|Python程式|好厲駭資深學長Maojui|
-|Python與古典密碼學|好厲駭資深學長Maojui|
-|初識逆向工程及底層架構|臺灣好厲駭學員LJP|
-|認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
     
 
 ✪指導單位：教育部資訊及科技教育司
@@ -134,7 +125,7 @@ https://meet.google.com/ipw-pfsi-guc
 ```
 
 
-#  需完成之題目
+#  需完成之題目(*星號題目於3月7日08:00開啟)
 ```
 Crypto:
 - Classical 1
@@ -159,7 +150,7 @@ Reverse:
 - SpecialCalc (*)
 - tryregistry
 
-*星號題目於3月7日08:00開啟
+
 
 ```
 
