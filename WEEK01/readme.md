@@ -1,5 +1,4 @@
-# 2021年10月10日-11日基礎逆向工程
-
+# 2022年CyberSecurity Camp 資訊安全營-入門課程
 ```
 教育部先進資通安全實務人才培育計畫
 校園資安深耕營Advanced Happy CyberSecurity Day
