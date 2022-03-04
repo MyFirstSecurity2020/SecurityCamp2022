@@ -33,8 +33,8 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|MyFirstCrypto-CTF|http://140.110.112.214/|
-|MyFirstPwn-CTF|https://140.110.112.213/|
+|MyFirstCrypto-CTF|http://140.110.112.214|
+|MyFirstPwn-CTF|https://140.110.112.213|
 |MyFirstReverse-CTF|https://140.110.112.212|
 ```
 平台關閉時間：3/11 17:00
