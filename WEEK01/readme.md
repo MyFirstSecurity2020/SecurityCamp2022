@@ -39,7 +39,7 @@
 (3)Ubuntu虛擬機：https://youtu.be/Kvy6lmSEMMo
 ```
 # 課程簡報下載
-[Re:從零開始的逆向工程](https://github.com/MyFirstSecurity2020/MyFirstRerverse20211009/blob/main/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B.pdf)
+https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sharing
 
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
@@ -51,17 +51,13 @@
 平台連結：https://140.110.112.213/
 ```
 
-# [Discord課程聊天室](https://discord.gg/tujVVuwQ)
+# [Discord課程聊天室]( https://discord.gg/5EGg3Ttq)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.gg/tujVVuwQ
+ https://discord.gg/5EGg3Ttq
 ```
 
-# [課程問題提問表單](https://forms.gle/YfmLBFR7UFvzcw5w8)
-```
-學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
-https://forms.gle/YfmLBFR7UFvzcw5w8
-```
+
 # 線上簽到
 
 ```
