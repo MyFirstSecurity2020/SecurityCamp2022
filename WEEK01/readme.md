@@ -6,6 +6,7 @@ CyberSecurity Camp 資訊安全營-入門課程
 
 
 課程內容：
+
 |主題|講師|
 |:----:|:------|
 |Python程式|好厲駭資深學長Maojui|
@@ -60,7 +61,9 @@ https://discord.com/invite/5EGg3Ttq
 |3月5日09:30~12:30|Python程式|好厲駭資深學長Maojui|
 |3月5日13:30~16:30|Python與古典密碼學|好厲駭資深學長Maojui|
 |3月6日09:30~12:30|初識逆向工程及底層架構|臺灣好厲駭學員LJP|
-|3月6日13:30~16:30|認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
+|3月6日13:30~14:30|認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
+|3月6日14:30~15:30|講師線上直播QA|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
+|3月6日15:30~16:30|認識程式底層運作及保護機制與Buffer overflow漏洞基礎利用|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
 
 
 
@@ -118,7 +121,7 @@ https://discord.com/invite/5EGg3Ttq
 https://meet.google.com/ipw-pfsi-guc
 
 
-# [證書核發](https://forms.gle/oyfB1JWYKg1rDYnS6)
+# [證書核發]
 ```
 (1)入門課程結業證書：完成線上簽到並且完成指定題目解題與審核通過發放*入門*課程結業證書(不提供課程參與證書)。
 (2)中階課程結業證書：完成線上簽到並且完成指定題目解題與審核通過發放*中階*課程結業證書(不提供課程參與證書)。
@@ -131,7 +134,7 @@ https://meet.google.com/ipw-pfsi-guc
 ```
 
 
-#  必解題
+#  需完成之題目
 ```
 Crypto:
 - Classical 1
@@ -156,7 +159,7 @@ Reverse:
 - SpecialCalc (*)
 - tryregistry
 
-打星號的是考試題
+*星號題目於3月7日08:00開啟
 
 ```
 
