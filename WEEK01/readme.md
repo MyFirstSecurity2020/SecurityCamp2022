@@ -153,13 +153,17 @@ Pwn:
 - pass (*)
 
 Reverse:
+- Counter (*)
+- ImageDropper (*)
 - Lottery
 - Password_Checker
+- PNGreader (*)
+- SendMsg (*)
+- SpecialCalc (*)
 - tryregistry
 
-
-
 打星號的是考試題
+
 ```
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
