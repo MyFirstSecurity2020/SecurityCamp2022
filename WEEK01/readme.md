@@ -130,6 +130,12 @@ Crypto:
 - Classical 3
 - Classical 4
 - Classical 5
+- ROT47
+- PicoCTF_2018-caesar cipher 2
+- Vigenère cipher
+- Base64
+- 第一堂base64編碼
+- ABCTF 2016 : ceasar-salad-10
 
 Pwn:
 - 張元 Pwn6 
