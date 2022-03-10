@@ -16,9 +16,9 @@ https://drive.google.com/drive/folders/1ibZQAsvJzR8zSKvfvCrK0X1uPwTTWhmX?usp=sha
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|MyFirstCrypto-CTF|http://140.110.112.214|
-|MyFirstPwn-CTF|https://140.110.112.213|
-|MyFirstReverse-CTF|https://140.110.112.212|
+|MyFirstCrypto-CTF|http://140.110.112.217|
+|MyFirstPwn-CTF|http://140.110.112.216|
+|MyFirstReverse-CTF|http://140.110.112.215|
 ```
 平台開放時間：3月5日09:00~3月11日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
