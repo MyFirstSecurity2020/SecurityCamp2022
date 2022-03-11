@@ -17,10 +17,10 @@ https://drive.google.com/drive/folders/1vLA8CMdg0X2peTV4erxyu3Gc_oSpIhyN?usp=sha
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|MyFirstReverse-CTF||
-|MyFirstPwn-CTF||
-|MyFirstWeb-CTF||
-|MyFirstCrypto-CTF||
+|MyFirstReverse-CTF|http://140.110.112.215/|
+|MyFirstPwn-CTF|http://140.110.112.217/|
+|MyFirstWeb-CTF|http://140.110.112.218/|
+|MyFirstCrypto-CTF|http://140.110.112.216/|
 ```
 平台開放時間：3月12日09:00~3月18日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
@@ -60,7 +60,17 @@ https://discord.gg/HqTjRR5B
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-
+|1 安裝工具|https://youtu.be/lH7O9tUaH-U |
+|2 程式產生過程|https://youtu.be/LwOIPeWVs-U|
+|3 程式運作過程|https://youtu.be/Qx7XqiljuNg |
+|4 X86組合語言_1|https://youtu.be/lr11CFqmm7Y |
+|5 X86組合語言_2|https://youtu.be/FWbN_4dj4g8 |
+|6 X86組合語言 3|https://youtu.be/dVPNZqnAF8w |
+|7 分析方法|https://youtu.be/argPc4oKrL8 |
+|8 ELF逆向工程|https://youtu.be/iZVxlnHB6TU |
+|9 逆向工程技巧|https://youtu.be/lFCb56ArybE |
+|demo1|https://youtu.be/MH9cycLsDt0 |
+|demo2|https://youtu.be/FXmpRB0ftcw |
 
 
 
@@ -68,7 +78,12 @@ https://discord.gg/HqTjRR5B
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-
+|CH4-1_Bof - ret2code|https://youtu.be/Db_BQsv9MmA|
+|CH4-2_Bof - ret2code|https://youtu.be/9wvb09WNwn0 |
+|CH5-1_Bof - ret2sc|https://youtu.be/VABqxI20ySE |
+|CH5-2_Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I |
+|CH6-1_Bof - ret2libc|https://youtu.be/lR0-nQpX56c |
+|CH6-2_Bof - ret2libc|https://youtu.be/H21YofSTazY |
 
 
 
@@ -77,17 +92,27 @@ https://discord.gg/HqTjRR5B
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-
+|1_網頁架構|https://youtu.be/6DYRCnxyYZk |
+|2_github and page|https://youtu.be/t3MapQEG80Q |
+|3_基礎網概論|https://youtu.be/iJxILi1IAyw |
+|4_URL|https://youtu.be/gzh625Nvgls |
+|5_HTTP|https://youtu.be/4vyh0OEAC1g |
+|6_LAB|https://youtu.be/WCdLWmV7BFo |
+|CTF 講解|https://youtu.be/Xv67Asi-Rg8 |
 
    
 # 3月13日(日) 現代密碼學 課程表
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-
-
-
-
+|CH1_Introduction |https://youtu.be/5G2TUR-m6qs |
+|CH2_Hash |https://youtu.be/gNUR2N_P3lg |
+|CH2-2_解題|https://youtu.be/YRFzWxiLHCA |
+|CH3_BlockCipher|https://youtu.be/-SBAqhN_rs4 |
+|CH3-2_LAB CBC 講解題目|https://youtu.be/l1omJO5OByE |
+|CH3-3_LAB CBC 解題|https://youtu.be/RiOqle5hokk |
+|CH4_非對稱式|https://youtu.be/FcnxzKxHbuw |
+|CH4-2_非對稱式 解題|https://youtu.be/PlsI8Qfb4iI |
 
 
 # [證書核發]
@@ -105,9 +130,54 @@ https://discord.gg/HqTjRR5B
 
 #  需完成之題目(*星號題目於3月14日08:00開啟)
 ```
+Reverse:
+上課
+- EasyCTF_adder 
+- olleH 
+- EasyCTF_hexable (*)
+- Reverse (*)
+- IUG_23NIW (*)
+- CFM_Shaco (*)
+
+Pwn:
+- 張元 Pwn8
+- Angelboy Pwn2
+- Angelboy Pwn3
+- Angelboy Pwn1 (*)
+- gohome (*)
+- registration (*)
+- 張元 Pwn9 (*)
+- oob3 Sean Pwn3 (*)
 
 
+Web：
+- Web-1:source code
+- web-2: Easy_Robots.txt
+- web-3:Robots.txt
+- web-4:Curl-1
+- web-5:HTTP method
+
+作業平台 https://lab.feifei.tw/practice/basic/
+完成題目：
+http綜合題三題
+- 1. Magic number(*)
+- 2. Content-type(*)
+- 3. Robots.txt(*)
+
+Crypto:
+- Hash Encrypt
+- CBC
+- RSA 後門 (1)
+- YANG_RSA-1
+- AIS3_Pre_exam_2015- Crypto2
 
 ```
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
+
+
+
+教育部先進資通安全實務人才培育計畫 
+課程名稱：現代密碼學
+講師：好厲駭資深學長Maojui
+
