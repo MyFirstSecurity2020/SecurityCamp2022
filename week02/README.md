@@ -17,10 +17,10 @@ https://drive.google.com/drive/folders/1vLA8CMdg0X2peTV4erxyu3Gc_oSpIhyN?usp=sha
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|MyFirstReverse-CTF|http://140.110.112.215/|
-|MyFirstPwn-CTF|http://140.110.112.217/|
-|MyFirstWeb-CTF|http://140.110.112.218/|
-|MyFirstCrypto-CTF|http://140.110.112.216/|
+|MyFirstReverse-CTF||
+|MyFirstPwn-CTF||
+|MyFirstWeb-CTF||
+|MyFirstCrypto-CTF||
 ```
 平台開放時間：3月12日09:00~3月18日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
@@ -101,46 +101,6 @@ https://discord.gg/HqTjRR5B
 
 #  需完成之題目(*星號題目於3月14日08:00開啟)
 ```
-Reverse:
-- EasyCTF_adder 
-- olleH 
-- EasyCTF_hexable (*)
-- Reverse (*)
-- IUG_23NIW (*)
-- CFM_Shaco (*)
-
-
-Pwn:
-- 張元 Pwn8
-- Angelboy Pwn2
-- Angelboy Pwn3
-- Angelboy Pwn1 (*)
-- gohome (*)
-- registration (*)
-- 張元 Pwn9 (*)
-- oob3 Sean Pwn3 (*)
-
-
-Web：
-- Web-1:source code
-- web-2: Easy_Robots.txt
-- web-3:Robots.txt
-- web-4:Curl-1
-- web-5:HTTP method
-作業平台 https://lab.feifei.tw/practice/basic/
-完成題目：
-http綜合題三題
-- 1. Magic number(*)
-- 2. Content-type(*)
-- 3. Robots.txt(*)
-
-
-Crypto:
-- Hash Encrypt
-- CBC
-- RSA 後門 (1)
-- YANG_RSA-1
-- AIS3_Pre_exam_2015- Crypto2
 
 ```
 
