@@ -60,17 +60,7 @@ https://discord.gg/HqTjRR5B
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|	1 安裝工具	|	https://youtu.be/lH7O9tUaH-U 	|
-|	2 程式產生過程	|	https://youtu.be/LwOIPeWVs-U	|
-|	3 程式運作過程	|	https://youtu.be/Qx7XqiljuNg 	|
-|	4 X86組合語言_1	|	https://youtu.be/lr11CFqmm7Y 	|
-|	5 X86組合語言_2	|	https://youtu.be/FWbN_4dj4g8 	|
-|	6 X86組合語言 3	|	https://youtu.be/dVPNZqnAF8w 	|
-|	7 分析方法	|	https://youtu.be/argPc4oKrL8 	|
-|	8 ELF逆向工程	|	https://youtu.be/iZVxlnHB6TU 	|
-|	9 逆向工程技巧	|	https://youtu.be/lFCb56ArybE 	|
-|	demo1	|	https://youtu.be/MH9cycLsDt0 	|
-|	demo2	|	https://youtu.be/FXmpRB0ftcw 	|
+
 
 
 
@@ -78,12 +68,7 @@ https://discord.gg/HqTjRR5B
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|	CH4-1_Bof - ret2code	|	https://youtu.be/Db_BQsv9MmA	|
-|	CH4-2_Bof - ret2code	|	https://youtu.be/9wvb09WNwn0 	|
-|	CH5-1_Bof - ret2sc	|	https://youtu.be/VABqxI20ySE 	|
-|	CH5-2_Bof - ret2sc	|	https://youtu.be/KKZ8YkSSb8I 	|
-|	CH6-1_Bof - ret2libc	|	https://youtu.be/lR0-nQpX56c 	|
-|	CH6-2_Bof - ret2libc	|	https://youtu.be/H21YofSTazY 	|
+
 
 
 
@@ -99,15 +84,7 @@ https://discord.gg/HqTjRR5B
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|	影片名稱	|	影片連結	|
-|	CH1_Introduction 	|	https://youtu.be/5G2TUR-m6qs 	|
-|	CH2_Hash 	|	https://youtu.be/gNUR2N_P3lg 	|
-|	CH2-2_解題	|	https://youtu.be/YRFzWxiLHCA 	|
-|	CH3_BlockCipher	|	https://youtu.be/-SBAqhN_rs4 	|
-|	CH3-2_LAB CBC 講解題目	|	https://youtu.be/l1omJO5OByE 	|
-|	CH3-3_LAB CBC 解題	|	https://youtu.be/RiOqle5hokk 	|
-|	CH4_非對稱式	|	https://youtu.be/FcnxzKxHbuw 	|
-|	CH4-2_非對稱式 解題	|	https://youtu.be/PlsI8Qfb4iI 	|
+
 
 
 
