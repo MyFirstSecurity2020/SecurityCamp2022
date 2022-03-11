@@ -10,7 +10,7 @@ CyberSecurity Camp 資訊安全營-中階課程
 ```
 
 # 課程簡報下載
-https://drive.google.com/drive/folders/1vLA8CMdg0X2peTV4erxyu3Gc_oSpIhyN?usp=sharing
+
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
