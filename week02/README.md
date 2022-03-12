@@ -156,7 +156,7 @@ Web：
 - web-4:Curl-1
 - web-5:HTTP method
 - Web writeup作業
-  -作業平台 https://lab.feifei.tw/practice/basic/
+  -作業平台 (**Username請使用email註冊以備查核) https://lab.feifei.tw/practice/basic/
   -完成http綜合題三題writeup
     - 1. Magic number(*)
     - 2. Content-type(*)
