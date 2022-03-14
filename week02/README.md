@@ -149,18 +149,22 @@ Pwn:
 - oob3 Sean Pwn3
 
 
-Web：
+Web： (3/14 15:36更新)
 - Web-1:source code
 - web-2: Easy_Robots.txt
 - web-3:Robots.txt
 - web-4:Curl-1
 - web-5:HTTP method
+
+
 - Web writeup作業
   -作業平台 (**Username請使用email註冊以備查核) https://lab.feifei.tw/practice/basic/
   -完成http綜合題三題writeup
     - 1. Magic number(*)
     - 2. Content-type(*)
     - 3. Robots.txt(*)
+  -資料參考：https://hackmd.io/@fei3363-/SecurityCamp2022?fbclid=IwAR107FdQMVRQpIhv1Z3p7L9-jgUjOp9FHda6HHpcL6flYu739SNmVEzVdF8
+- Web writeup作業回傳表單：https://forms.gle/iVUd3TZgBNofaLqM9
 
 Crypto:
 - Hash Encrypt
