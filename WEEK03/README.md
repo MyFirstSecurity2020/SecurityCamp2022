@@ -19,25 +19,24 @@ https://drive.google.com/drive/folders/1gwNoTZuGuJg8FeritvAt8QaETdYKtsvw
 |MyFirstReverse-CTF|http://140.110.112.220/ |
 |MyFirstPwn-CTF|http://140.110.112.221/ |
 |MyFirstCrypto-CTF|http://140.110.112.222/ |
-|MyFirstWeb-CTF|http://140.110.112.219/|
+|MyFirstWeb-CTF|http://140.110.112.219/|   (3/19 17:00上架)
 
 ```
 平台開放時間：3月19日09:00~3月25日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
 ```
 
-
-# [Discord課程聊天室](https://discord.gg/HqTjRR5B )
-```
-學員可以聊天室上互相提問學習(講師也會不定時上線)
-
-```
 # [課程問題提問表單]( https://forms.gle/yaMcCBgojzbhh6T68 )
 ```
 學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
 https://forms.gle/yaMcCBgojzbhh6T68
 ```
 
+# [Discord課程聊天室](https://discord.gg/HqTjRR5B )
+```
+學員可以聊天室上互相提問學習(講師也會不定時上線)
+
+```
 
 # 線上簽到(*務必簽到)
 ```
@@ -55,13 +54,12 @@ https://forms.gle/yaMcCBgojzbhh6T68
 |:----:|:----:|:------|
 |3月19日09:30~12:30|進階逆向工程|臺灣好厲駭學員LJP|
 |3月19日13:30~15:30| Buffer overflow 進階利用以及Format string 漏洞利用|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
-|3月19日15:30~16:30|PWN線上直播QA||
+|3月19日15:30~16:30|PWN線上直播QA|臺灣好厲駭學員/臺灣大學陳憶賢frozenkp|
 |3月20日09:30~11:30|現代密碼學破密分析|好厲駭資深學長Maojui|
 |3月20日13:30~16:30|網站安全基礎原理與實務|臺灣好厲駭學員/臺科大資安社社長林子婷|
 
 ## 3月19日(六) 15:30~16:30   PWN線上直播QA
 https://meet.google.com/ndy-ozws-ogm 
-
 
 # 3月19日(六) 進階逆向工程 課程表
 ## 影片連結
@@ -100,9 +98,7 @@ https://meet.google.com/ndy-ozws-ogm
 |CH2-2_LEA_ATTACK解題|https://youtu.be/vb8-oDN_f_o |
    
 # 3月20日(日) 網站安全基礎原理與實務 課程表
-## 影片連結
-|章節名稱|影片連結|
-|:------|:-------------|
+## 3月19日 17:00 上架
 
 
 # [證書核發]
@@ -142,6 +138,7 @@ Crypto:
 - [LAB] OWO_Apple Shop 
 
 Web：
+- 3月19日17:00上架
 
 
 ```
