@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1gwNoTZuGuJg8FeritvAt8QaETdYKtsvw
 |MyFirstReverse-CTF|http://140.110.112.220/ |
 |MyFirstPwn-CTF|http://140.110.112.221/ |
 |MyFirstCrypto-CTF|http://140.110.112.222/ |
-|MyFirstWeb-CTF|http://140.110.112.219/|   (3/19 17:00上架)
+|MyFirstWeb-CTF|  (3/19 17:00上架)  http://140.110.112.219/|  
 
 ```
 平台開放時間：3月19日09:00~3月25日17:00
