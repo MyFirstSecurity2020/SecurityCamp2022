@@ -32,7 +32,7 @@ https://drive.google.com/drive/folders/1gwNoTZuGuJg8FeritvAt8QaETdYKtsvw
 https://forms.gle/yaMcCBgojzbhh6T68
 ```
 
-# [Discord課程聊天室](https://discord.gg/HqTjRR5B )
+# [Discord課程聊天室](https://discord.gg/mUectrpn )
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
 https://discord.gg/mUectrpn
