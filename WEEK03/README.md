@@ -35,7 +35,7 @@ https://forms.gle/yaMcCBgojzbhh6T68
 # [Discord課程聊天室](https://discord.gg/HqTjRR5B )
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-
+https://discord.gg/mUectrpn
 ```
 
 # 線上簽到(*務必簽到)
