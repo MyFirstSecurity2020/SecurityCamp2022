@@ -99,7 +99,13 @@ https://meet.google.com/ndy-ozws-ogm
    
 # 3月20日(日) 網站安全基礎原理與實務 課程表
 ## 3月19日 17:00 上架
-
+|章節名稱|影片連結|
+|:------|:-------------|
+|1.OWASP10|https://youtu.be/4OQYY9bq1fs |
+|2.SQL|https://youtu.be/C1UYIuoIxmM |
+|3.XSS|https://youtu.be/Mo9uWE4qEis |
+|4.LFIRFI|https://youtu.be/xUu3ourpKOw |
+|5.SQLiCTF|https://youtu.be/--2Qp7BVdEs |
 
 # [證書核發]
 ```
@@ -113,35 +119,35 @@ https://meet.google.com/ndy-ozws-ogm
 
 ```
 
-#  需完成之題目
-```
-Reverse:
-- HelloWindows
-- HelloDLL
-- GiveUflag
+#  需完成之題目      
 
-Pwn:
-- 張元 Pwn10 
-- echo_server
-- fmtstr 
-- fmt-1
-- fmt-2 
-- fmt-3
-- secret
+- Reverse:
+  - HelloWindows
+  - HelloDLL
+  - GiveUflag
 
-Crypto:
-- [LAB] RSA Factorization
-- [LAB] Smooth Prime
-- [LAB] YANG_RSA-2
-- [LAB] Chinese Remainder Theorem
-- [Lab] YANG_RSA-4
-- [LAB] OWO_Apple Shop 
+- Pwn:
+  - 張元 Pwn10 
+  - echo_server
+  - fmtstr 
+  - fmt-1
+  - fmt-2 
+  - fmt-3
+  - secret
+
+- Crypto:
+  - [LAB] RSA Factorization
+  - [LAB] Smooth Prime
+  - [LAB] YANG_RSA-2
+  - [LAB] Chinese Remainder Theorem
+  - [Lab] YANG_RSA-4
+  - [LAB] OWO_Apple Shop 
 
 Web：
 - 3月19日17:00上架
 
 
-```
+
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
 
