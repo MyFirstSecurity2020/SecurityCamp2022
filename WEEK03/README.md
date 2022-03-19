@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1gwNoTZuGuJg8FeritvAt8QaETdYKtsvw
 |MyFirstReverse-CTF|http://140.110.112.220/ |
 |MyFirstPwn-CTF|http://140.110.112.221/ |
 |MyFirstCrypto-CTF|http://140.110.112.222/ |
-|MyFirstWeb-CTF|  (3/19 17:00上架)  http://140.110.112.219/|  
+|MyFirstWeb-CTF|http://140.110.112.219/|  
 
 ```
 平台開放時間：3月19日09:00~3月25日17:00
@@ -120,13 +120,12 @@ https://meet.google.com/ndy-ozws-ogm
 ```
 
 #  需完成之題目      
-
-- Reverse:
+##### Reverse:
   - HelloWindows
   - HelloDLL
   - GiveUflag
 
-- Pwn:
+##### Pwn:
   - 張元 Pwn10 
   - echo_server
   - fmtstr 
@@ -135,7 +134,7 @@ https://meet.google.com/ndy-ozws-ogm
   - fmt-3
   - secret
 
-- Crypto:
+##### Crypto:
   - [LAB] RSA Factorization
   - [LAB] Smooth Prime
   - [LAB] YANG_RSA-2
@@ -143,8 +142,26 @@ https://meet.google.com/ndy-ozws-ogm
   - [Lab] YANG_RSA-4
   - [LAB] OWO_Apple Shop 
 
-Web：
-- 3月19日17:00上架
+##### Web：
+  - 1.OWASP TOP 10
+    - 連結：https://lab.feifei.tw/practice/vulnbasic/
+    - 連結：https://lab.feifei.tw/practice/vulnbasic/intr.php
+  - 2. SQL injection
+    - 連結：https://lab.feifei.tw/practice/sqli/
+  - 3. Cross-Site Scripting
+    - 連結：https://lab.feifei.tw/practice/xss/
+  - 4. LFI/RFI
+    - 連結：https://lab.feifei.tw/practice/fi/
+
+##### Web作業
+  - 1.完成 LAB
+  - 2.完成兩題 CTF  (要WriteUp)
+  - 3.完成 SQL injection (要WriteUp)
+    - (1) Blind SQL injection
+    - (2)Bypass WAF
+  - 4.完成 XSS GAME 6 題(要WriteUp)
+  - 5.完成 RFI，自行撰寫 WEBSHELL並截圖
+  - 作業上傳： https://drive.google.com/drive/u/0/folders/1pf_pgBj9sbDXZhmCP8NZ3E7NlDc8w6fY?hl=zh-TW
 
 
 
