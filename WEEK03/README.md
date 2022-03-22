@@ -161,7 +161,7 @@ https://meet.google.com/ndy-ozws-ogm
     - (2)Bypass WAF
   - 4.完成 XSS GAME 6 題(要WriteUp)
   - 5.完成 RFI，自行撰寫 WEBSHELL並截圖
-  - 作業上傳： https://drive.google.com/drive/u/0/folders/1pf_pgBj9sbDXZhmCP8NZ3E7NlDc8w6fY?hl=zh-TW
+  -(3/22 17:47更新) 作業上傳：https://forms.gle/JDFwzKGBvqqYiMRw8
 
 
 
