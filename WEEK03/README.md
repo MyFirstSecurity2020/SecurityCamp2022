@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1gwNoTZuGuJg8FeritvAt8QaETdYKtsvw
 |MyFirstWeb-CTF|http://140.110.112.219/|  
 
 ```
-平台開放時間：3月19日09:00~3月25日17:00
+平台開放時間：3月19日09:00~3月27日23:59
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
 ```
 
