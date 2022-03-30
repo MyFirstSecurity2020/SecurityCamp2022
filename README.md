@@ -74,7 +74,7 @@ ID：yoyoyo / u910612@tcivs.tc.edu.tw
 - [CyberSecurity Camp 資訊安全營-問卷](https://docs.google.com/forms/d/e/1FAIpQLSeS8EZTU7OgkoVwM_T2rLidaTCNUF0RsKJzKXgiQFfcoft6nA/viewform)
 ```
 【未填寫問卷之名單】
-台中高工蔡○宸、台南一中曾○語、彰化高中吳○翰、鳳山高中林○騰、松山高中陳○宇
+台南一中曾○語、彰化高中吳○翰、鳳山高中林○騰、松山高中陳○宇
 
 (未確認身分)
 ID：CHJASON / chjason@chjason.mail
